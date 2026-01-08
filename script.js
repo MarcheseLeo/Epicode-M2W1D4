@@ -12,7 +12,7 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA
- Nei linguaggi di programmazione, i "datatype" (o tipi di dato) sono come scatole che contengono diversi tipi di informazioni. I principali tipi di dato con cui abbismo s che fare in JavaScript:
+ Nei linguaggi di programmazione, i "datatype" (o tipi di dato) sono come scatole che contengono diversi tipi di informazioni. I principali tipi di dato con cui abbismo a che fare in JavaScript:
  1. Numeri: Sono i numeri come 1, 2, 3.5, -4, ecc. Possono essere positivi o negativi, interi (Integers) o decimali (Float o Double).
  2. Sono sequenze di caratteri come "Ciao", "123"ecc. Le stringhe sono sempre racchiuse tra virgolette (apici doppi, singoli o backtick), 
  ma gli apici devono essere uguali tra dui loro. Nello specifico sono Oggetti, ovvero strutturte dati più complesse che possono contenere proprietà e metodi.
