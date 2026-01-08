@@ -41,7 +41,7 @@ REGOLE
 /* SCRIVI QUI LA TUA RISPOSTA 
  Gli oggetti sono strutture dati complesse strettamente legate al concetto di Programmazione Orientata agli Oggetti (OOP). Gli oggetti ci permettono di astrarre entità del mondo reale in modo più intuitivo e organizzato, 
  raggruppando insieme proprietà (attributi) e metodi (funzioni) che descrivono lo stato e il comportamento dell'oggetto stesso. Grazie al principo di astrazione e di ereditarietà, gli oggetti ci aiutano a ridurre la complessità del codice 
- e a migliorare la manutenibilità e la riusabilità del software. Per esempio, se dovessimo  dover creare un programma che gestisce l'aula di un liceo, dovremmo in primo luogo identificare le entità principali coinvolte, come studenti e insegnanti.
+ e a migliorare la manutenibilità e la riusabilità del software. Per esempio, se dovessimo  dover creare un programma che gestisce la classe di un liceo, dovremmo in primo luogo identificare le entità principali coinvolte, come studenti e insegnanti.
  Gli studenti ed insegnanti sono entrambi senza dubbi delle persone, quindi possiedono un nome, un cognome, un eta, un genere, un indirizzo; possono inoltre svolgere delle azioni (metodi), muoversi, parlare ecc... Creamo prima quindi la classe (Oggetto)
  "Persona" con le proprieta e i metodi comuni a tutte le persone, e poi creiamo due sottoclassi (sotto-oggetti) "Studente" e "Insegnante" che ereditano le proprieta e i metodi della classe "Persona", ma che hanno anche delle proprieta e dei metodi specifici per ciascuna sottoclasse.
  Le sottoclassi oltre a ereditare le proprieta e i metodi della superclasse, possono anche sovrascrivere (override) i metodi ereditati per adattarli alle proprie esigenze specifiche.
