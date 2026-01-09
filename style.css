@@ -45,3 +45,10 @@ button{
     text-align: center;
 }
 
+code{
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 5px;
+    width: 90%;
+}
+

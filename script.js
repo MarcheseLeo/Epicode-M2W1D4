@@ -51,6 +51,18 @@ esercizioDue.innerHTML = `Gli oggetti sono strutture dati complesse strettamente
  "Persona" con le proprieta e i metodi comuni a tutte le persone, e poi creiamo due sottoclassi (sotto-oggetti) "Studente" e "Insegnante" che ereditano le proprieta e i metodi della classe "Persona", ma che hanno anche delle proprieta e dei metodi specifici per ciascuna sottoclasse.
  Le sottoclassi oltre a ereditare le proprieta e i metodi della superclasse, possono anche sovrascrivere (override) i metodi ereditati per adattarli alle proprie esigenze specifiche.
 `
+let codiceEsempio = document.querySelector("code");
+codiceEsempio.innerHTML = ` let auto = {
+    marca: "Toyota",
+    modello: "Corolla",
+    anno: 2020,
+    colore: "Blu",
+    accendi: function() {
+        console.log("L'auto è accesa.");
+    }
+}
+`
+
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
