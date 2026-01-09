@@ -53,9 +53,11 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-function somma(a, b) {
-    return a + b;
-}
+let a = 12;
+let b = 20;
+let somma = a + b;
+ 
+
 
 
 /* ESERCIZIO 4
@@ -89,12 +91,9 @@ let sottrazione = 4 - x;
 /* SCRIVI QUI LA TUA RISPOSTA */
 let name1 = "john";
 let name2 = "John";
+let disuguaglianza = name1 !== name2;
+let ughaglianza = name1.toLowerCase() === name2.toLowerCase();
 
-if(name1 !== name2){
-    console.log("name1 è diversa da name2");
-}
-
-if(name1.toLowerCase() === name2.toLowerCase()){
-    console.log("name1 e name2 sono uguali in lowercase");
-}
+console.log("La disuguaglianza tra john e Jhon e':" + disuguaglianza);
+console.log("L'uguaglianza tra john e Jhon trasformate in minuscolo e':" + ughaglianza);
 
